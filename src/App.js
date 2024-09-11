@@ -15,7 +15,7 @@ function App() {
           <a href="https://github.com/q1chenl" target="_blank" rel="noopener noreferrer">
             <FaGithub size={30} />
           </a>
-          <a href="https://x.com/q1chenl" target="_blank" rel="noopener noreferrer">
+          <a href="https://x.com/qichen404" target="_blank" rel="noopener noreferrer">
             <FaTwitter size={30} />
           </a>
         </div>
