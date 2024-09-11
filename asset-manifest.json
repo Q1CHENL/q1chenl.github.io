@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Q1CHENL/q1chenl.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/Q1CHENL/q1chenl.github.io/static/js/main.7eace953.js",
+    "static/js/453.ad6eb26e.chunk.js": "/Q1CHENL/q1chenl.github.io/static/js/453.ad6eb26e.chunk.js",
+    "static/media/logo.svg": "/Q1CHENL/q1chenl.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Q1CHENL/q1chenl.github.io/index.html",
+    "main.f855e6bc.css.map": "/Q1CHENL/q1chenl.github.io/static/css/main.f855e6bc.css.map",
+    "main.7eace953.js.map": "/Q1CHENL/q1chenl.github.io/static/js/main.7eace953.js.map",
+    "453.ad6eb26e.chunk.js.map": "/Q1CHENL/q1chenl.github.io/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.7eace953.js"
+  ]
+}
